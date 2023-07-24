@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "322636471501",
+    "project_id": "grid-cff1b",
+    "storage_bucket": "grid-cff1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322636471501:android:10bba7fe64ca2662eb5d84",
+        "android_client_info": {
+          "package_name": "com.gridx.ecosystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322636471501-37q0mcn1v6aonpqjar2koktf4bvu4otk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gridx.ecosystem",
+            "certificate_hash": "7cda636ff9d9fd498b775fdd0de4052ea8a49f99"
+          }
+        },
+        {
+          "client_id": "322636471501-qocl0h7tpcdfm753jq2ok3m9p7pk39n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gridx.ecosystem",
+            "certificate_hash": "c16a6c7c550ba657b73c082d2f90472b78410fea"
+          }
+        },
+        {
+          "client_id": "322636471501-45r88efk8amit78j8jigd6snv595shk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCqmJFKaECkBFnvIlQaZG-wFDyLU3gIX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322636471501-45r88efk8amit78j8jigd6snv595shk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
